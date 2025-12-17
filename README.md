@@ -1,4 +1,5 @@
-# Sports Celebrity Image Classification Model
+<h1 align="center"> Sports Celebrity Image Classification Model</h1>
+
 
 This project is a computer vision–based Machine Learning application that identifies sports personalities from images using classical computer vision techniques and supervised learning. 
 The system detects faces in an image, extracts meaningful features using wavelet transforms, and classifies the individual using a trained machine learning model.  
